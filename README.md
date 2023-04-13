@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I love to draw, play rpg games and develop small projects**
 
-- 📫 My linkedin: <a href="https://www.linkedin.com/in/gabriel-nogueira-shiota-8aa492203/" target="blank" rel="noopener noreferrer"><img align="center" src="https://github.com/gshiotaaa/gshiotaaa/blob/master/linkedin.svg" alt="linkedin gshiotaaa" height="20" width="20" />
+- 📫 My linkedin: <a href="https://www.linkedin.com/in/gabriel-nogueira-shiota-8aa492203/" target="blank" rel="noopener noreferrer"><img align="center" src="https://github.com/gshiotaaa/gshiotaaa/blob/main/linkedin.svg" alt="linkedin gshiotaaa" height="20" width="20" />
 
 ---
 
