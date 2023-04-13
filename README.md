@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/gshiotaaa](https://github.com/gshiotaaa)
 
+- 🚀 My portfolio [https://gshiotaaa.github.io/MyPortfolio/](https://gshiotaaa.github.io/MyPortfolio/)
+
 - ⚡ Fun fact **I love to draw, play rpg games and develop small projects**
 
 - 📫 My linkedin: <a href="https://www.linkedin.com/in/gabriel-nogueira-shiota-8aa492203/" target="blank" rel="noopener noreferrer"><img align="center" src="https://github.com/gshiotaaa/gshiotaaa/blob/main/linkedin.svg" alt="linkedin gshiotaaa" height="20" width="20" />
